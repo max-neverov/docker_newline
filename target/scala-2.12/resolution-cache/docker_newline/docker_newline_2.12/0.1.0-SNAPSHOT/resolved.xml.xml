@@ -4,7 +4,7 @@
 		module="docker_newline_2.12"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181207120422"
+		publication="20181207132005"
 	>
 		<description>
 		docker_newline
