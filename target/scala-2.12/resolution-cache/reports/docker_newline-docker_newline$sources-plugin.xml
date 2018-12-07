@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="docker_newline"
+		module="docker_newline$sources"
+		revision="0.1.0-SNAPSHOT"
+		conf="plugin"
+		confs="compile, runtime, test, provided, optional, universal, universal-docs, universal-src, windows, docker, linux, rpm, debian, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20181207122123"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

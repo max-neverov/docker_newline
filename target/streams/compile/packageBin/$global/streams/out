@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/mnp0570/Projects/docker_newline/target/scala-2.12/docker_newline_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	newline[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mnp0570/Projects/docker_newline/target/scala-2.12/classes/newline[0m
+[0m[[0m[0mdebug[0m] [0m[0m	newline/issue[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mnp0570/Projects/docker_newline/target/scala-2.12/classes/newline/issue[0m
+[0m[[0m[0mdebug[0m] [0m[0m	newline/issue/Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mnp0570/Projects/docker_newline/target/scala-2.12/classes/newline/issue/Server$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	newline/issue/Server.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/mnp0570/Projects/docker_newline/target/scala-2.12/classes/newline/issue/Server.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
